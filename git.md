@@ -22,4 +22,4 @@ Copy code
 git init
 
 
-commit for vetka 1
+Conflict
