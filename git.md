@@ -19,3 +19,7 @@ git config --global user.email "johndoe@example.com"
     Откройте командную строку или Git Bash, перейдите в каталог проекта, который вы хотите 
     asdasdas
 Conflictsadsadsa(фвфвфвфв)
+
+
+
+не получается вызвать комиты ыфвфывфыв
