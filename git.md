@@ -20,3 +20,6 @@ git config --global user.email "johndoe@example.com"
 
 Copy code
 git init
+
+
+commit for vetka 1
