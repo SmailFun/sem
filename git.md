@@ -18,4 +18,4 @@ git config --global user.email "johndoe@example.com"
     Создание нового репозитория:
     Откройте командную строку или Git Bash, перейдите в каталог проекта, который вы хотите 
     asdasdas
-Conflictsadsadsa(asdasdasd)
+Conflictsadsadsa(фвфвфвфв)
